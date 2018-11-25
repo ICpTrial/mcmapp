@@ -1,1 +1,39 @@
-
+apiVersion: v1
+entries:
+  gbapp:
+  - apiVersion: v1
+    created: 2018-11-25T17:15:04.024031886+09:00
+    description: A Helm chart for Kubernetes
+    digest: c144dd11a1f454d6584c7552e7cebc2c92e63edf0bad7d034a994caa12127589
+    name: gbapp
+    urls:
+    - https://icptrial.github.io/mcmapp/gbapp-0.1.0.tgz
+    version: 0.1.0
+  gbf:
+  - apiVersion: v1
+    created: 2018-11-25T17:15:04.025133453+09:00
+    description: A Helm chart for Kubernetes
+    digest: 587f25b35ff08b49058e9c7119c1e318b94787942ad4c8dc6b1753321bbb5b8b
+    name: gbf
+    urls:
+    - https://icptrial.github.io/mcmapp/gbf-0.1.0.tgz
+    version: 0.1.0
+  gbrm:
+  - apiVersion: v1
+    created: 2018-11-25T17:15:04.025887442+09:00
+    description: A Helm chart for Kubernetes
+    digest: aabec1dfa9e2ff871b01fbc9c29248cc972258e2db31c437fc674cc2ae143232
+    name: gbrm
+    urls:
+    - https://icptrial.github.io/mcmapp/gbrm-0.1.0.tgz
+    version: 0.1.0
+  gbrs:
+  - apiVersion: v1
+    created: 2018-11-25T17:15:04.02669066+09:00
+    description: A Helm chart for Kubernetes
+    digest: ba9d76984d0a29f3c993ddf66b5d22c64c607adc1488274fa9f04f0be354e91f
+    name: gbrs
+    urls:
+    - https://icptrial.github.io/mcmapp/gbrs-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-11-25T17:15:04.01811142+09:00
